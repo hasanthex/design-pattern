@@ -6,3 +6,8 @@
 ### Implementation
 1. Factory Method Design pattern provides an interface for creating objects in a superclass but allows subclasses to
 alter the type of objects that will be created.
+
+
+- Define Product Class (Super or Base Class)
+- Create Factory Class (Implement the factory)
+- Use the Factory Class
