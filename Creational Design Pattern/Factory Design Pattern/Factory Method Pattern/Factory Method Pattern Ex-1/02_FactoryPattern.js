@@ -1,5 +1,5 @@
-// Product Interface
-class Notification {
+  // Product Interface
+  class Notification {
     send(message) {
       throw new Error("Method 'send()' must be implemented.");
     }
